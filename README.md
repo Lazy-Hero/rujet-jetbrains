@@ -20,6 +20,6 @@
 **Совместимость**
 > Работает в браузере Chrome.
 
-В скором времени опубликую ссылку для загрузки в Firefox.
+> FireFox версия: https://addons.mozilla.org/ru/firefox/addon/rujet-installer-by-lazyhero/
 
 **Связь со мной** >> Telegram [https://t.me/shalopaybase]
