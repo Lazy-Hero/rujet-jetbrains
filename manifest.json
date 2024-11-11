@@ -1,0 +1,14 @@
+{
+   "background": {
+      "service_worker": "index.js"
+   },
+   "icons": {
+	"128": "128.png"
+	},
+   "description": "Скачиваем продукты jetbrains без использования proxy и vpn. \nhttps://t.me/shalopaybase",
+   "host_permissions": [ "*://plugins.jetbrains.com/files*", "*://*.plugins.jetbrains.com/*", "*://downloads.marketplace.jetbrains.com/*", "*://download-cdn.jetbrains.com/*", "*://download.jetbrains.com/*", "*://*.jetbrains.com/*" ],
+   "manifest_version": 3,
+   "name": "RuJet installer - by LazyHero",
+   "permissions": [ "declarativeNetRequest", "declarativeNetRequestFeedback" ],
+   "version": "1"
+}
